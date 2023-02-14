@@ -63,6 +63,13 @@ pip3 install -r requirements.txt
 # <Create config.py appropriately>
 python3 main.py
 ````
+###
+<a href="https://render.com/deploy?repo=https://github.com/Anthoniraj82627/File-Sharing-Bot">
+
+  <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
+
+</a>
+
 
 ### Admin Commands
 
